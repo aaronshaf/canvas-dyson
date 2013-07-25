@@ -1,0 +1,9 @@
+{
+  "name": "canvas-dyson",
+  "version": "0.0.1",
+  "description": "Fake Canvas JSON. Useful for development. Uses webpro/dyson.",
+  "dependencies": {
+    "dyson-generators": "~0.1.1",
+    "dyson-image": "~0.1.3"
+  }
+}
