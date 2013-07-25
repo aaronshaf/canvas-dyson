@@ -19,6 +19,8 @@ canvasModule = {
 modules = {
   path: '/modules',
   collection: true,
+  cache: false,
+  size: 10,
   template: canvasModule.template
 }
 
